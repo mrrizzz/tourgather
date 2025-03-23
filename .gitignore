@@ -1,0 +1,51 @@
+# Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.packages
+
+# Build outputs
+build/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# macOS
+macos/.dart_tool/
+macos/build/
+macos/Flutter/ephemeral/
+
+# Windows
+windows/.dart_tool/
+windows/build/
+
+# Linux
+linux/.dart_tool/
+linux/build/
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Generated files
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Misc
+pubspec.lock
+firebase/
+*.log
+firebase-tools-instant-win.exe
